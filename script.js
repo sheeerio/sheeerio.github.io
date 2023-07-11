@@ -1,7 +1,7 @@
 const canvas = document.getElementById('canvas1');
 const ctx = canvas.getContext('2d');
 console.log(window.innerWidth, window.innerHeight);
-canvas.width = round5(window.innerWidth * 0.6)*2;
+canvas.width = round5(window.innerWidth * 0.5)*2;
 canvas.height = round5(window.innerHeight * 0.6)*2;
 
 function round5(x) {
@@ -28,7 +28,7 @@ class Particle {
         this.newAngle = 0;
         this.angleCorrector = Math.random() * 0.5 + 0.01;
         this.timer = this.maxLength * 2;
-        this.colors = ['#42113C', '#370926', '#1C0118'];
+        this.colors = ['#42113C', '#EE2677', '#EE2677', '#370926', '#4C0827', '#1C0118', '#4C0827', '#2D0605', '#4C0827', '#934683'];
         this.color = this.colors[Math.floor(Math.random() * this.colors.length)];
     }
     draw(context) {
@@ -108,7 +108,7 @@ class Effect {
         this.height = this.canvas.height;
         this.particles = [];
         this.numberOfParticles = 2000;
-        this.cellSize = 15;
+        this.cellSize = 10;
         this.rows;
         this.cols;
         this.flowField = [];
