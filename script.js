@@ -1,7 +1,7 @@
 const canvas = document.getElementById('canvas1');
 const ctx = canvas.getContext('2d');
 console.log(window.innerWidth, window.innerHeight);
-canvas.width = round5(window.innerWidth * 0.8)*2;
+canvas.width = round5(window.innerWidth * 0.6)*2;
 canvas.height = round5(window.innerHeight * 0.6)*2;
 
 function round5(x) {
@@ -78,7 +78,7 @@ class Particle {
         let attempts = 0;
         let resetSuccess = false;
 
-        while (attempts < 10 && !resetSuccess) {
+        while (attempts < 11 && !resetSuccess) {
             attempts++;
             let testIndex = Math.floor(Math.random() * this.effect.flowField.length);
             if (this.effect.flowField[testIndex].alpha > 0) {
@@ -108,7 +108,7 @@ class Effect {
         this.height = this.canvas.height;
         this.particles = [];
         this.numberOfParticles = 2000;
-        this.cellSize = 10;
+        this.cellSize = 15;
         this.rows;
         this.cols;
         this.flowField = [];
@@ -126,7 +126,7 @@ class Effect {
             this.resize(e.target.innerWidth, e.target.innerHeight)
         });
     }
-    drawText() {
+    drawText(p) {
         if (this.width < 800) {
             this.context.font = '180px monospace';
         } else { this.context.font = '350px monospace';}
@@ -154,7 +154,7 @@ class Effect {
         gradient3.addColorStop(0.8, 'rgb(255,255,150)');
 
         this.context.fillStyle = gradient2;
-        this.context.fillText(today.getHours() + ":" + today.getMinutes(), this.width * 0.5, this.height * 0.5, this.width * 0.8);
+        this.context.fillText(p, this.width * 0.5, this.height * 0.5, this.width * 0.8);
     }
     init() {
         // create flow field
@@ -163,7 +163,7 @@ class Effect {
         this.flowField = [];
 
         // draw text
-        this.drawText();
+        this.drawText(today.getHours() + ":" + today.getMinutes());
 
         // scan pixel data
         const pixels = this.context.getImageData(0, 0, this.width, this.height).data;
@@ -244,6 +244,5 @@ function animate() {
     effect.render();
     requestAnimationFrame(animate);
 }
-console.log(time);
 
 animate();

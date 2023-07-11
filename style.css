@@ -46,8 +46,12 @@ canvas {
     margin-left: 30px;
 }
 
+.home .home-content a {
+    color: #ededed;
+}
+
 .home {
-    height: 240vh;
+    height: 280vh;
     display: flex;
     align-items: center;
     padding: 0 10%;
@@ -59,7 +63,7 @@ canvas {
 
 .home-content p {
     font-size: 16px;
-    margin: 20px 0 40px;
+    margin: 20px 0 20px;
 }
 
 .home-content h1 {
