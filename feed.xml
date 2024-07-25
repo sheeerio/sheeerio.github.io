@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Understanding the Bias in RL  ]]>
+  </title>
+  <link> https://sheeerio.github.io/requietis/2023/09/bias/index.html </link>
+  <guid> https://sheeerio.github.io/requietis/2023/09/bias/index.html </guid>
+  <description>
+    <![CDATA[  Understanding Bias-Variance Tradeoff in RL through Stein&#39;s Paradox.  ]]>
+  </description>  
+    
+  <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Gunbir Singh Baveja</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Things to live by in 2024  ]]>
   </title>
   <link> https://sheeerio.github.io/requietis/2024/07/hi/index.html </link>
