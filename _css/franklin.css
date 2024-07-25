@@ -373,10 +373,37 @@ code {
     float:left;
     font-style: italic;
 }
+
+.soln{
+  display:block;
+  margin-left:20px;
+  margin-bottom:30px;
+  font-style:normal;
+  font-size: 0.9em;
+}
+.soln:before{
+  content:'Soln.\00a0\00a0';
+  float:left;
+  font-style: italic;
+}
 /*.proof:after{
     content:"\25A1";
     float:right;
 }*/
+
+.problem {
+  display:block;
+  margin-left:20px;
+  margin-bottom:30px;
+  font-style:normal;
+  font-size: 0.9em;
+}
+
+.problem:before {
+  content:'Problem.\00a0\00a0';
+  float:left;
+  font-style: italic;
+}
 
 .proofsk{
     display:block;
@@ -427,4 +454,10 @@ figure figcaption {
   display:block;
   margin-left:auto;
   margin-right:auto;
+}
+
+.caption {
+  text-align: center;
+  padding: 20px;
+  font-size: smaller;
 }
