@@ -461,3 +461,8 @@ figure figcaption {
   padding: 20px;
   font-size: smaller;
 }
+
+.globe {
+  justify-items: center;
+  width: 30%;
+}
