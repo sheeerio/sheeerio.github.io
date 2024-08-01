@@ -10,11 +10,3 @@ I'm broadly interested in artificial intelligent agency, with a vision to create
 I sometimes write [here](/requietis/). You can check out my most recent statement [here](/notes/statement.pdf), and my [github](https://github.com/sheeerio).
 
 Feel free to reach out to me at `gbaveja[at]student[dot]ubc[dot]ca`.
-
-~~~
-<br></br>
-<br></br>
-<div class="globe">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_vWmL58c1XWMyF1HpT5h3sAFC3oax-stOZKPZB8UDY4"></script>
-</div>
-~~~
