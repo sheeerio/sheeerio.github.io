@@ -101,7 +101,7 @@ We see that the variance of the sample reward collected along a few trajectories
 
 @@row
 @@container
-@@top ![](/assets/reward_variance.png) @@
+@@top ![](../../../../assets/reward_variance.png) @@
 @@
 @@caption
 The different colored trajectories are plotted along with the running reward variance. It's clear here that different trajectories lead to significantly different returns.\sidenote{}{even in agents like PPO (such as the one used in the image), learned trajectories have high return variance.}
