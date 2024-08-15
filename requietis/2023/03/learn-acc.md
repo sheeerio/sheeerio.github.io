@@ -6,7 +6,7 @@
 @def rss_title = "The Hidden Bias in Scientific Objectivity"
 @def rss_description = "Exploring how inherent biases influence scientific research and the quest for objective truth."
 
-# {{fill title}}
+# {{ fill title }}
 \toc
 
 I've been thinking about arguments lately.[^1] So here's a straightforward and small essay I wrote about biases.
