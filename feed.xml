@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Projects  ]]>
+  </title>
+  <link> https://sheeerio.github.io/menu1/index.html </link>
+  <guid> https://sheeerio.github.io/menu1/index.html </guid>
+  <description>
+    <![CDATA[  A short description of project I&#39;ve worked on.  ]]>
+  </description>  
+    
+  <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Gunbir Singh Baveja</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Understanding the Bias in RL  ]]>
   </title>
   <link> https://sheeerio.github.io/requietis/2023/09/bias/index.html </link>
@@ -51,25 +70,6 @@
   </description>  
     
   <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Gunbir Singh Baveja</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Projects  ]]>
-  </title>
-  <link> https://sheeerio.github.io/menu1/index.html </link>
-  <guid> https://sheeerio.github.io/menu1/index.html </guid>
-  <description>
-    <![CDATA[  A short description of project I&#39;ve worked on.  ]]>
-  </description>  
-    
-  <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
