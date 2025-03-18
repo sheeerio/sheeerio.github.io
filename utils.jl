@@ -23,9 +23,9 @@ Taken from the JuliaLang site utils.jl
 function hfun_blogposts()
     curyear = year(Dates.today())
     io = IOBuffer()
-    for year in curyear:-1:2023
+    for year in curyear:-2:2023
         ys = "$year"
-        year < curyear && write(io, "\n**$year**\n")
+        year < curyear
         for month in 12:-1:1
             ms = "0"^(month < 10) * "$month"
             base = joinpath("requietis", ys, ms)
