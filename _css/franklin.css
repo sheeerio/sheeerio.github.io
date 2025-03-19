@@ -405,6 +405,20 @@ code {
   font-style: italic;
 }
 
+.claim {
+  display:block;
+  margin-left:20px;
+  margin-bottom:30px;
+  font-style:normal;
+  font-size: 0.9em;
+}
+
+.claim:before {
+  content:'Claim.\00a0\00a0';
+  float:left;
+  font-style: italic;
+}
+
 .proofsk{
     display:block;
     margin-left:20px;
