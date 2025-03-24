@@ -9,6 +9,6 @@ I'm broadly interested in artificial intelligent agency, with a vision to create
 
 I like to overthink on topics and sometimes jot down certain thoughts [here](/requietis/).
 
-You can check out my most recent statement [here](/notes/statement.pdf), and my [github](https://github.com/sheeerio).
+You can check out my [academic page](https://www.students.cs.ubc.ca/~gbaveja/), and my [github](https://github.com/sheeerio).
 
 Feel free to reach out via mail: `gbaveja[at]student[dot]ubc[dot]ca`.
