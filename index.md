@@ -12,3 +12,9 @@ I like to overthink on topics and sometimes jot down certain thoughts [here](/re
 You can check out my [academic page](https://www.students.cs.ubc.ca/~gbaveja/), and my [github](https://github.com/sheeerio).
 
 Feel free to reach out via mail: `gbaveja[at]student[dot]ubc[dot]ca`.
+
+
+### What I'm reading
+
+- Bartleby, the Scrivener
+- Persepolis

@@ -25,3 +25,15 @@ Table of Contents:
 ## Essay 1: Governments should place few, if any, restrictions on scientific research and development.
 _(09/30/2025)_
 
+- they should place at least a few and not 0 and not many
+- scientific research is nuanced, genetic biology research is where we need restrictions due to the potential for the research to be used to harm others
+- same for AI research, but the restrictions should not be placed on the scientific research community as a whole, but should be nuanced to only include the type of research that advances such a threat. For example, an academic lab working on the theory behind AI is likely to do no harm, whereas a company like OpenAI or Anthropic is.
+- The primary case for restrictions does arise from the need to protect intelligence from the hands of those that may misuse it, even if unintentionally. Another case is that defining what counts as a potential harm, in the zietgeist, is highly controlversial and often blurry for the scientists working in the community themselves. Placing restrictions, therefore, needs to be done in the fields where the reasoning is unanimously agreed upon by the members of the community as well as the laymen. 
+- The need for placing restrictions becomes imminent when we consider the thin, and rather blurry, line between what is ethical or not. For example, the infamous Stanford Experiment conducted a century prior is not something that can be reproduced in the exact manners, and therefore deriving the same conclusions may involve developing methodologies that precludes from research walking along the line of law. 
+- There will, of course, be proponents of science that scientific research and development implicitly invokes the reason to be 'on the bleeding edge' but this edge is usually thought of as the edge of our current knowledge and thinking, and not the edge of law or common ethical boundaries.
+- Conducting the famous trolley problem in real life, is of course dangerous, and restrictions should be placed where research involves harming anyone.
+- Restrictions may also prove to be advantageous where research advances of any kind may pose to be a potential threat to humanity, where the government should scrutinize every research project or usage. Some examples of this are nuclear research, biology cell mutation research, et cetera. 
+- At the same time, it would not be advantageous to pose any restrictions to research where the harm is negligible. This is probably theory-based such as theoretical physics, mathematics, theoretical comoputer science, astrophysics. These may serve as the grounding for some empirical experiments down the line, however, when considered in isolation, it's probably disadvantageous to restrict mathematical research.
+- It would advantageous to impose few restrictions on areas of science like healthcare, climate, AI, space, where the long-term goal of such fields is to accelerate or benefit humanity.
+
+
