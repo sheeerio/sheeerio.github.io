@@ -18,3 +18,5 @@ tags = ["projects", "code"]
 * [Alokhe](https://github.com/sheeerio/alokhe-bot): An English Pronunciation Discord Bot - Learn, Write, and Teach English with Transliteration.
 
 * [MAP Inference in JAX](https://github.com/sheeerio/map_prop_experiments/): Revising existing code from [Map-prop](https://arxiv.org/abs/2010.07893) to [JAX](https://docs.jax.dev/en/latest/) and scaling up to deeper networks, with supervision from [Stephen Chung](https://www.stephen-c.com/).
+
+* [better_rl](https://github.com/sheeerio/better_rl): A deep RL experimentation tool providing insights into state-visitation, replay buffers, and policy analysis.
