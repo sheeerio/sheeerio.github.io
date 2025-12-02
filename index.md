@@ -5,7 +5,9 @@
 
 I'm a senior at UBC studying Computer Science.
 
-I'm broadly interested in artificial intelligent agency, with a vision to create true agents that can learn, and interact continually.\sidenote{}{for some reason, 'true' makes me think of wall-e like robots; they have their life-like charm.} To that end, I'm currently working on addressing loss of plasticity in continual learning.
+I am interested in moving closer to the vision of a "[child machine](https://www-formal.stanford.edu/jmc/child.pdf)" and in the formal foundations of intelligent agency. To that end, my goal is to develop principled frameworks for continual learning that clarify the assumptions under which long-horizon intelligence becomes possible. 
+
+Currently, I am working with Prof. [Mark Schmidt](https://cs.ubc.ca/~schmidtm) on understanding "loss of plasticity" in deep networks.
 
 I like to overthink on topics and sometimes jot down certain thoughts [here](/requietis/).
 
