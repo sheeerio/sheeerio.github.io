@@ -23,7 +23,7 @@ Taken from the JuliaLang site utils.jl
 function hfun_blogposts()
     curyear = year(Dates.today())
     io = IOBuffer()
-    for year in curyear:-2:2023
+    for year in curyear:-1:2022
         ys = "$year"
         year < curyear
         for month in 12:-1:1
